@@ -1,5 +1,5 @@
 package textrpg;
 
-public class runner {
+public class Gui {
 
 }
